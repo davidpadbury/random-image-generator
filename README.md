@@ -34,7 +34,7 @@ randomImageGenerator(800, 600, function(err, image) {
 ### Command Line
 
 ```
-npm install -g random-image generator
+npm install -g random-image-generator
 
 random-image-generator 800 600 > random-image.jpg
 ```
