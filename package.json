@@ -4,7 +4,7 @@
   "description": "Generates random JPEG images",
   "main": "index.js",
   "bin": {
-    "random-image-generator": "random-image-generator.js"
+    "random-image-generator": "bin/random-image-generator.js"
   },
   "directories": {
     "test": "test"
