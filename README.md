@@ -12,8 +12,6 @@ Available as both a node module in code and a command line tool.
 
 ![Example Random Image](doc/example.jpg)
 
-*See, very random.*
-
 ## Usage
 
 ### JavaScript
