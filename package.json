@@ -18,7 +18,8 @@
     "async": "^0.9.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "release-patch": "npm version patch && git push origin master && git push --tags && npm publish"
   },
   "repository": {
     "type": "git",
